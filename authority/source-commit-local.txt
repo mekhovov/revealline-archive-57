@@ -1,0 +1,26 @@
+tree 0c288a694a4c2cba04a7ae331eb3a376bdd4c811
+parent 41099ae0094bb6797383018cd0ac27cccba37693
+parent 935373f4075599e1917f65439cdb3ff20c031e2d
+author Oleksandr Mekhovov <oleksandr.mekhovov@coupa.com> 1790126370 +0200
+committer GitHub <noreply@github.com> 1790126370 +0200
+gpgsig -----BEGIN PGP SIGNATURE-----
+ 
+ wsFcBAABCAAQBQJqsykiCRC1aQ7uu5UhlAAAjz4QADQ2m+aqR5w7TF9NI0+HGC5A
+ gBI7h3Dbi+sumKVDvAUDBsed9p6uSr6QBrvIF8N5jGxZJWm+icwTBQLRdsUj29Si
+ S5Ft1HaLI5Qh8mpEKjlPWaWPze+GoSR6QWV1NRf+3TrZnk8zRtntZEk4cAbW1SnO
+ rJP43yUn0S/KYLsbh8bYPFD+CEZJ51DLuCQ4Y6JtyF2mMQSeaEP+iIi+tugOJlol
+ 70MYnFx4knmCweV4lfmQ3yxFxq9z0Us2UMtMDJHAZgG+ijDkVeUhvRVyE+Vt6+2y
+ TVJNz1v090VW0LV7Nc2jScQ0cUPxOIHVetxmjrgv3ifUWXQjQC+Re/HRZxRPDHXh
+ oUbdYYVQGXGeudzRerJJnXaOODdF7BWBLOn+hpKQJe+msEccORncZMGPL9MajiQS
+ mHF9ZdNRqhW7CX9qGPYWHirPVVGlf2Clp3/AiNqubHFr4gxyah1Tay01LdAk5YOB
+ QfoexYN4kCH2HUoEQKbdf7SZeBzIW6rBkbsDDWy+nBA0evs42o88Y538s1pTTnNs
+ WqLeEP1zRRPTFBzYZYZY61l9KPwMbFogmTaB65uIlWtZXBNru8+zt8vBxZDhr0Hs
+ JnJAIOP8ElnZByI3z69/nAo4WgOtG00myEvLkXquK/D20zG+zs99SJMVkk7phQg3
+ rgmqVMok72yjROEuTp5w
+ =1iAd
+ -----END PGP SIGNATURE-----
+ 
+
+Merge pull request #284 from mekhovov/codex/pr230-current-main-20260923
+
+fix: v0.88.0 same-page chapter download retry instructions
